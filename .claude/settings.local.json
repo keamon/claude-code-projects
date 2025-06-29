@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:fred.stlouisfed.org)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d python3 phillips_curve_analysis.py)",
+      "Bash(python:*)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d timeout 300 python3 phillips_curve_analysis.py)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(python3:*)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d python3 comprehensive_fed_analysis.py)",
+      "Bash(open FRED_Analysis_Report.pdf)",
+      "Bash(open Fed_Policy_Client_Presentation.html)",
+      "Bash(open Fed_Policy_Changes_Summary.html)",
+      "Bash(pip install:*)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(python3:*)",
+      "Bash(open:*)",
+      "Bash(python:*)",
+      "Bash(open fed_volatility_comprehensive_report.md)",
+      "Bash(streamlit run:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(pkill:*)",
+      "Bash(/Users/chen/Library/Python/3.9/bin/jupyter notebook fed_data_cleansing_pipeline.ipynb)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d python3 data-collection/fred_api_client.py)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d python3 main.py --data-collection)",
+      "Bash(find:*)",
+      "Bash(rm:*)",
+      "Bash(tree:*)",
+      "Bash(mv:*)",
+      "Bash(ls:*)",
+      "Bash(FRED_API_KEY=852567bee469ec614405e5dce75b847d python3 main.py --help)",
+      "Bash(git config:*)"
+    ],
+    "deny": []
+  }
+}

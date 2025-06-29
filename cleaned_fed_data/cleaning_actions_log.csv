@@ -1,0 +1,10 @@
+timestamp,action,series,details
+2025-06-29 17:56:49.715795,FREQUENCY_STANDARDIZATION,Federal Funds Rate,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:49.942123,FREQUENCY_STANDARDIZATION,10-Year Treasury Rate,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:50.380810,FREQUENCY_STANDARDIZATION,2-Year Treasury Rate,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:50.595637,FREQUENCY_STANDARDIZATION,5-Year Treasury Rate,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:50.775947,FREQUENCY_STANDARDIZATION,3-Month Treasury Rate,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:50.922467,FREQUENCY_STANDARDIZATION,Consumer Price Index,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:51.303571,FREQUENCY_STANDARDIZATION,Core CPI,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:51.517775,FREQUENCY_STANDARDIZATION,PCE Price Index,Resampled to M frequency: 305 -> 305 records
+2025-06-29 17:56:51.695659,FREQUENCY_STANDARDIZATION,Core PCE Price Index,Resampled to M frequency: 305 -> 305 records
